@@ -1,0 +1,7 @@
+print('name?')
+name = input()
+print('surname?')
+surname = input()
+print('fathername?')
+surname_2 = input()
+print (name, surname, surname_2) 
