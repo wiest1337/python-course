@@ -1,0 +1,7 @@
+a =int(input())
+b =int(input())
+print ('произведение a и b =',int(a*b))
+print ('частное a и b =',float (a/b))
+print ('целочисленное деление a на b =',int(a//b))
+print ('остаток от деления a на b =',(a%b))
+print ('a в степени b =',int(a**b))
